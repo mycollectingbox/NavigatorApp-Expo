@@ -1,0 +1,38 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "NavigatorApp-Expo",
+  "short_name": "NavigatorApp-Expo",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "tw.edu.asia.iasl.app.navigator"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=tw.edu.asia.iasl.app.navigator",
+      "id": "tw.edu.asia.iasl.app.navigator"
+    }
+  ],
+  "prefer_related_applications": true,
+  "icons": [
+    {
+      "src": "\\NavigatorApp-Expo\\pwa\\chrome-icon\\chrome-icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "\\NavigatorApp-Expo\\pwa\\chrome-icon\\chrome-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "\\NavigatorApp-Expo\\pwa\\chrome-icon\\chrome-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
