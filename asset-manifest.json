@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/NavigatorApp-Expo/static/js/app.a284124a.chunk.js",
-    "app.js.map": "/NavigatorApp-Expo/static/js/app.a284124a.chunk.js.map",
+    "app.js": "/NavigatorApp-Expo/static/js/app.1ab8d092.chunk.js",
+    "app.js.map": "/NavigatorApp-Expo/static/js/app.1ab8d092.chunk.js.map",
     "runtime~app.js": "/NavigatorApp-Expo/static/js/runtime~app.9f1f4fc2.js",
     "runtime~app.js.map": "/NavigatorApp-Expo/static/js/runtime~app.9f1f4fc2.js.map",
     "static/js/2.f3938e0a.chunk.js": "/NavigatorApp-Expo/static/js/2.f3938e0a.chunk.js",
@@ -19,6 +19,6 @@
   "entrypoints": [
     "static/js/runtime~app.9f1f4fc2.js",
     "static/js/2.f3938e0a.chunk.js",
-    "static/js/app.a284124a.chunk.js"
+    "static/js/app.1ab8d092.chunk.js"
   ]
 }
