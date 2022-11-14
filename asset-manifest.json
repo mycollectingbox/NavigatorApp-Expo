@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/NavigatorApp-Expo/static/js/app.e4aa2022.chunk.js",
-    "app.js.map": "/NavigatorApp-Expo/static/js/app.e4aa2022.chunk.js.map",
+    "app.js": "/NavigatorApp-Expo/static/js/app.e063140a.chunk.js",
+    "app.js.map": "/NavigatorApp-Expo/static/js/app.e063140a.chunk.js.map",
     "runtime~app.js": "/NavigatorApp-Expo/static/js/runtime~app.9f1f4fc2.js",
     "runtime~app.js.map": "/NavigatorApp-Expo/static/js/runtime~app.9f1f4fc2.js.map",
-    "static/js/2.4116dde3.chunk.js": "/NavigatorApp-Expo/static/js/2.4116dde3.chunk.js",
-    "static/js/2.4116dde3.chunk.js.map": "/NavigatorApp-Expo/static/js/2.4116dde3.chunk.js.map",
+    "static/js/2.e5af810c.chunk.js": "/NavigatorApp-Expo/static/js/2.e5af810c.chunk.js",
+    "static/js/2.e5af810c.chunk.js.map": "/NavigatorApp-Expo/static/js/2.e5af810c.chunk.js.map",
     "fonts/FontAwesome.ttf": "/NavigatorApp-Expo/./fonts/FontAwesome.ttf",
     "fonts/MaterialCommunityIcons.ttf": "/NavigatorApp-Expo/./fonts/MaterialCommunityIcons.ttf",
     "favicon-16.png": "/NavigatorApp-Expo/favicon-16.png",
@@ -14,11 +14,11 @@
     "index.html": "/NavigatorApp-Expo/index.html",
     "manifest.json": "/NavigatorApp-Expo/manifest.json",
     "serve.json": "/NavigatorApp-Expo/serve.json",
-    "static/js/2.4116dde3.chunk.js.LICENSE.txt": "/NavigatorApp-Expo/static/js/2.4116dde3.chunk.js.LICENSE.txt"
+    "static/js/2.e5af810c.chunk.js.LICENSE.txt": "/NavigatorApp-Expo/static/js/2.e5af810c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.9f1f4fc2.js",
-    "static/js/2.4116dde3.chunk.js",
-    "static/js/app.e4aa2022.chunk.js"
+    "static/js/2.e5af810c.chunk.js",
+    "static/js/app.e063140a.chunk.js"
   ]
 }
